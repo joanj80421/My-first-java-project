@@ -22,8 +22,8 @@ public class BeatBox {
     JFrame theFrame;
     
     String[] instrumentNames = {"bass Drum", "Closed hi-Hat", "Open Hi-hat" , "Acoustic Snare", "Crash Cymbal", "Hand Clap" , 
-                                                            "High Tom", "Hi Bongo", "Maracas", "Whistle", "Low Conga", "Cowbell", "Vibraslap", "Low-mid Tom", 
-                                                            "High Agogo", "Open Hi Conga"}; //use array to maintain instruments
+                                "High Tom", "Hi Bongo", "Maracas", "Whistle", "Low Conga", "Cowbell", "Vibraslap", "Low-mid Tom", 
+                                "High Agogo", "Open Hi Conga"}; //use array to maintain instruments
     int[] instruments = {35, 42, 46, 38, 49, 39, 50, 60, 70, 72, 64, 56, 58, 47, 67, 63}; //the index of the truly instruments number
 
     /**
